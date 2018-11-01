@@ -30,7 +30,7 @@ client.on('ready', () => {
  client.on("ready", () => {
 let channel =     client.channels.get("507338689362526245")
 setInterval(function() {
-channel.send(`john`);
+channel.send(`botbotbot`);
 }, 1)
 })
 
