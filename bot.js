@@ -36,4 +36,4 @@ channel.send(`john`);
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("NDkyNTk4NjgxNzAzMjg0NzQz.Dokw7g.mBOkoNZyyLpJUJ8UqWzWlKpuSZw");
